@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React basic Concepts
+* ES6 JS concepts -  Arrow Function, Template Literals, Class
+1. React Project setup -  npx create-react-app nameofapp
+2. Components -  Functional(stateless or dumb) component and Class (Stateful or smart) component
+3. Props and State
+4. Form and event Handling (Contyrolled component)
+5. List and keys
+6. Conditional Rendering and Destructuring
+7. Lifecycle Methods
+8. Pure Component
+9. HTTP Get and post
+10. Higher Order Component
+
 ## Available Scripts
 
 In the project directory, you can run:
